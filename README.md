@@ -1,5 +1,5 @@
 # BranchPlotter
-Visualizes a parent-branch style directory/version history via the ETE Toolkit.
+Visualizes a parent-branch style directory/version history via the [ETE Toolkit](https://github.com/etetoolkit/ete).
 
 ## Dependencies
 - ETE Toolkit (ete3 3.1.2 and higher). Run `pip install ete3` to install.
